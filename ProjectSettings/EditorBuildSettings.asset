@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ChooseDevice.unity
+    guid: e5402817bc8314c52b4e2e7281a239b0
+  - enabled: 1
+    path: Assets/Scenes/OM_iPad.unity
+    guid: 721fb27a1ab5a449189e2aa2c26fed97
+  - enabled: 1
+    path: Assets/Scenes/OM_iPhone.unity
+    guid: 8e4b88521fbcf4ed294ba61004824591
   m_configObjects: {}
